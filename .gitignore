@@ -37,3 +37,6 @@
 *.log
 *.fdb_latexmk
 *.gz
+*.toc
+*.bbl
+*.blg
